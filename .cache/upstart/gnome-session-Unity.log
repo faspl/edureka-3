@@ -42,3 +42,5 @@ ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible
 ERROR 2017-04-03 17:39:16 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
 ERROR 2017-04-03 17:39:16 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
 ERROR 2017-04-03 17:39:16 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+(firefox:5813): Gtk-CRITICAL **: IA__gtk_clipboard_set_with_data: assertion 'targets != NULL' failed

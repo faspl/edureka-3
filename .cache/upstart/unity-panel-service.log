@@ -1,0 +1,6 @@
+
+(unity-panel-service:4932): Indicator-Appmenu-WARNING **: Already have a menu for window ID 62914783 with path /com/canonical/menu/3C000DF from :1.99, unregistering that one
+
+(unity-panel-service:4932): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed
+
+(unity-panel-service:4932): Indicator-Appmenu-CRITICAL **: menus_destroyed: assertion 'wm != NULL' failed

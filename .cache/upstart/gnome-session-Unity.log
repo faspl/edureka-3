@@ -1,0 +1,44 @@
+Error loading .desktop file /usr/share/applications/gnome-deja-dup-panel.desktop: constructor returned NULL
+Error loading .desktop file /usr/share/app-install/desktop/deja-dup:gnome-deja-dup-panel.desktop: constructor returned NULL
+
+(gnome-terminal:5354): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+
+** (update-notifier:5299): WARNING **: log file empty (logrotate?) /var/log/dpkg.log
+
+** (update-notifier:5299): WARNING **: log file empty (logrotate?) /var/log/apt/term.log
+ERROR 2017-04-03 16:57:49 unity.settings UnitySettings.cpp:244 Invalid monitor index: -1. Returning index 0 monitor instead.
+1491219370498	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+1491219372619	addons.xpi	ERROR	Failed to clean updated system add-ons directories.: Unix error 2 during operation DirectoryIterator.prototype.next on file /home/edureka/.mozilla/firefox/kelvi8vs.default/features (No such file or directory) ((unknown module)) No traceback available
+ERROR 2017-04-03 17:24:18 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-04-03 17:24:18 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-04-03 17:24:18 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-04-03 17:37:12 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-04-03 17:37:12 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 AtkObject* unity_a11y_get_accessible(nux::Object*): assertion 'object != NULL' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2017-04-03 17:39:16 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2017-04-03 17:39:16 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
